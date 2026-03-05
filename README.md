@@ -1,4 +1,4 @@
-![image2](https://github.com/user-attachments/assets/452e3c24-29c3-4ade-928f-0e2b6e904a28)**Banking Customer Churn Prediction**
+**Banking Customer Churn Prediction**
 
 **Introduction**
 The Banking Customer Churn Prediction System is a machine learning project that predicts whether a bank customer is likely to leave the bank or continue using its services.
