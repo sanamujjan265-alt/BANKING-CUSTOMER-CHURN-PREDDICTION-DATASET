@@ -1,4 +1,5 @@
 **Banking Customer Churn Prediction**
+
 **Introduction**
 The Banking Customer Churn Prediction System is a machine learning project that predicts whether a bank customer is likely to leave the bank or continue using its services.
 By analyzing customer information such as credit score, age, balance, tenure, and number of products, the system identifies patterns that lead to customer churn. This helps banks take preventive measures to retain valuable customers.
