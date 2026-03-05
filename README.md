@@ -1,4 +1,4 @@
-**Banking Customer Churn Prediction**
+![image2](https://github.com/user-attachments/assets/452e3c24-29c3-4ade-928f-0e2b6e904a28)**Banking Customer Churn Prediction**
 
 **Introduction**
 The Banking Customer Churn Prediction System is a machine learning project that predicts whether a bank customer is likely to leave the bank or continue using its services.
@@ -44,6 +44,7 @@ Estimated Salary
 Exited (0 = Customer Stays, 1 = Customer Leaves)
 
 **Technologies Used**
+
 Python
 
 Pandas
@@ -55,17 +56,22 @@ Matplotlib
 Seaborn
 
 **Data Visualization**
+
 Data visualization helps understand customer behavior and relationships between different features.
-Correlation Heatmap
+
+**Correlation Heatmap**
 
 Shows the relationship between numerical features and customer churn.
-Distribution Plots
+
+**Distribution Plots**
 
 Displays the distribution of important features such as Age, Balance, and Credit Score.
-Count Plots
+
+**Count Plots**
 
 Shows the number of customers who stayed vs left the bank.
-Box Plots
+
+**Box Plots**
 
 Detects outliers in features such as Balance, Credit Score, and Estimated Salary.
 These visualizations help identify patterns and important factors affecting churn.
@@ -86,4 +92,5 @@ Customers with fewer bank products are more likely to churn.
 Data visualization helped identify important features influencing churn prediction.
 
 **Author**
+
 Sanam Ujjan
